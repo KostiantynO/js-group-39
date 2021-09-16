@@ -1,3 +1,6 @@
+document.body.style.backgroundColor = '#212121';
+document.body.style.color = '#eee';
+
 // Задача 1 - Базовые операции с массивом
 
 // Создайте массив genres с элементами «Jazz» и «Blues».
